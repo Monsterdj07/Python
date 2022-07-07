@@ -1,0 +1,5 @@
+a=input("Enter a sentence: ")
+b=a.find("  ")
+print([b]) 
+c=a.replace("  ", " ")
+print(c)
