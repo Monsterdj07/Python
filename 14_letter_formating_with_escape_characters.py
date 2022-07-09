@@ -1,2 +1,2 @@
-letter="dear harry \n this course is nice \n thankyou!"
+letter="dear harry \n\t this course is nice \nthankyou!"
 print(letter)
